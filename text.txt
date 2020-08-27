@@ -1,0 +1,19 @@
+
+> mypackageibo@1.0.0 build /home/ibo/Dev/project/myPackageIbo
+> webpack
+
+Hash: 658310d186f3e4de0daa
+Version: webpack 4.44.1
+Time: 1525ms
+Built at: 21/08/2020 09:30:23
+   Asset      Size  Chunks             Chunk Names
+index.js  94.4 KiB       0  [emitted]  main
+Entrypoint main = index.js
+ [0] ./src/index.js 912 bytes {0} [built]
+ [5] external "react" 42 bytes {0} [built]
+ [8] ./src/helper/date.js 380 bytes {0} [built]
+[20] ./src/service/apiAxio.service.js 2.18 KiB {0} [built]
+[24] ./src/helper/apiFetcherHelper.js 1.23 KiB {0} [built]
+[52] ./src/service/index.js 362 bytes {0} [built]
+[53] ./src/helper/index.js 775 bytes {0} [built]
+    + 47 hidden modules
